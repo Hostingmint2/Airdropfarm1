@@ -1,0 +1,1 @@
+// Burner wallet generation logic placeholder

@@ -1,1 +1,3 @@
-# Airdropfarm1
+# Omni-Farm Alpha Bot
+
+Setup instructions here.
